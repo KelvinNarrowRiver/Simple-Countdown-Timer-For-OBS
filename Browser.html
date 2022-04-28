@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="appstyles.css" />
+	</head>
+	<body id="sourceBody">
+		<div id="timeDisplaySource">0:00</div>
+		<script>
+			let time
+			const channelName = 'obsTimer'
+			const channel = new BroadcastChannel(channelName)
+			const messageContainer = document.getElementById('timeDisplaySource')
+			channel.onmessage = (message) => {
+				time = [message.data[0], message.data[1], message.data[2], message.data[3]]
+				console.log(time)
+				if (time[3] === 'zero') {
+					timeDisplaySource.innerHTML = time[2]
+					return
+				}
+				if (time[1] > 9) timeDisplaySource.innerHTML = time[0] + ':' + time[1]
+				else {
+					time[1] = '0' + time[1].toString(10)
+					timeDisplaySource.innerHTML = time[0] + ':' + time[1]
+				}
+			}
+		</script>
+	</body>
+</html>
