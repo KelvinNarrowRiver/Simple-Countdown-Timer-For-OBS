@@ -1,4 +1,4 @@
-# Simple Countdown Stream Timer for OBS
+# Simple Countdown Timer for OBS
 
 A simple countdown timer/clock for OBS to start a stream.
 With 'Message at Finish' function and a Dock to control timer.
