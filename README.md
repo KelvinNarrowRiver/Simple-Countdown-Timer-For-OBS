@@ -10,5 +10,5 @@ In this panel there is the option to change the font,color and size of the OBS d
 Horizontal and vertical justification options have been added as well as the saving of settings.
 so as to not have to reapply settings after an OBS restart. Instalation and changing the font is simple.
 Download the   Simple Countdown Timer for OBS 2.zip  and unzip to a directory of your choosing.
-Install instuctions as in the readme that is in .zip file.
+Install instructions as in the readme that is in .zip file.
 Changing the font instructions are contained in the .pdf file included in the .zip file
