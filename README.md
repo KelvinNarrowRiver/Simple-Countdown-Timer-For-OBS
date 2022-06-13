@@ -1,6 +1,7 @@
 # Simple Countdown Timer for OBS 2
 
-![Countdown Pic](https://user-images.githubusercontent.com/104570886/173319066-a6d29d8e-4b1d-4855-9b32-d4ade86dc161.jpg)
+![Countdown Pic1](https://user-images.githubusercontent.com/104570886/173329365-6825d514-73f1-41a3-a6c4-53a874c7c006.jpg)
+
 
 Version 2
 
