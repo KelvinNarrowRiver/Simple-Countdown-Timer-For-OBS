@@ -12,4 +12,4 @@ Horizontal and vertical justification options have been added. As well as the sa
 so as to not have to reapply settings after an OBS restart. Installation and changing the font is simple.
 Download the Simple Countdown Timer for OBS 2.zip and unzip to a directory of your choosing.
 Install instructions as in the readme that is in .zip file.
-Changing the font instructions are contained in the .pdf file included in the .zip file
+Changing the font instructions are contained in the .pdf file included in the .zip file,
