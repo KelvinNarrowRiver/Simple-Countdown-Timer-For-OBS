@@ -22,7 +22,7 @@ Multiple clicks of the START button has been disabled
 
 The Small black 0:00 on the display at the first load has been fixed
 
-The TAB choice is now remembered while OBS is running
+The TAB choice in the settings panel is now remembered while OBS is running
 
 Max font size is set to 300px
 
