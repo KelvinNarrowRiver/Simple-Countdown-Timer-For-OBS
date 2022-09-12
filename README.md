@@ -10,7 +10,7 @@ Bug fix update
 
 Please follow the install instructions that are included in the .zip file for the Plugin to work correctly
 
-and watch the install video
+and watch the install video. Easy and quick to Imstall
 
 
 
