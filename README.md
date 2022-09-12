@@ -1,8 +1,8 @@
-# Simple Countdown Timer for OBS 2.1
+# Simple Countdown Timer for OBS 2.2
 
 ![Countdown Pic1](https://user-images.githubusercontent.com/104570886/173329365-6825d514-73f1-41a3-a6c4-53a874c7c006.jpg)
 
-Version 2.1
+Version 2.2
 
 
 
@@ -14,7 +14,7 @@ and watch the install video
 
 
 
-Fixes in this 2.1 version
+Fixes in this 2.2 version
 
 
 
